@@ -32,7 +32,6 @@ def initialize_probs(states):
         
     return trans_prob
 
-
 def get_states(tagged_corpus):
     '''
     Input:
