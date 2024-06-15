@@ -1,1 +1,1 @@
-# part-of-speech-tagging-POS-
+# Implementation-of-Hidden-Markov-Model-for-Part-of-Speech-Tagging
